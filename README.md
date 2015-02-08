@@ -50,4 +50,4 @@ JQuery
 ## Contributing
 
 
-Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
+Our code is licensed under the [MIT License](LICENSE). Pull requests will be accepted to this repo, pending review and approval.
